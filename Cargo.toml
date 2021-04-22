@@ -1,5 +1,5 @@
 [package]
-name = "wasm-template"
+name = "web-wasm-template"
 version = "0.1.0"
 authors = ["Charles Chege <charleschege@protonmail.ch>"]
 edition = "2018"
